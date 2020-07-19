@@ -16,6 +16,9 @@ body{
     flex-flow: column;
 }
 
+h2{
+    color: red;
+}
 header {
     display: flex;
     justify-content: center;
